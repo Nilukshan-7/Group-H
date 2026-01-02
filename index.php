@@ -104,7 +104,7 @@
 </div>
 
 <footer class="text-center py-4 text-muted">
-  © 2025 Local Solution Network
+  © 2025 Local Solution Network-L_S_N
 </footer>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
